@@ -21,11 +21,12 @@ The system:
 ## 📁 Structure
 
 ```
-customer-churn-drift/
+ML_Drift_Monitoring/
 │
-├── model_training.ipynb
-├── data_drift_simulation.ipynb
-├── model_monitoring.ipynb
+├── src/
+│       ├── model_training.ipynb
+│       ├── data_drift_simulation.ipynb
+│       ├── model_monitoring.ipynb
 │
 ├── data/
 ├── models/
