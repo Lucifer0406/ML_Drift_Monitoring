@@ -1,0 +1,7 @@
+,type,p_value,drift_detected,model_status
+SeniorCitizen,numerical,1.0,False,Model_at_Risk
+tenure,numerical,0.7152073905916912,False,Model_at_Risk
+MonthlyCharges,numerical,1.388719601103126e-71,True,Model_at_Risk
+TotalCharges,numerical,0.843843681659861,False,Model_at_Risk
+Churn,numerical,0.9508026290722367,False,Model_at_Risk
+gender,categorical,0.8796008128315027,False,Model_at_Risk

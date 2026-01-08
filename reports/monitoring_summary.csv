@@ -1,0 +1,2 @@
+Total_Features,Drifted_Features,Drift_Ratio,Reference_Churn_rate,Production_Churn_rate,Prediction_Shift,Model_Status
+6,1,0.167,0.226,0.002,0.224,Model_at_Risk
