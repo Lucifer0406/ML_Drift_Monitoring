@@ -61,7 +61,10 @@ python model_monitoring.ipynb
 
 This generates:
 - `reports/monitoring_summary.csv`
+  <img width="1477" height="283" alt="image" src="https://github.com/user-attachments/assets/d60ace31-87c3-4e4a-8cb5-9b171881ad99" />
+
 - `reports/feature_drift_report.csv`
+<img width="1099" height="349" alt="image" src="https://github.com/user-attachments/assets/df670a7b-ccc0-4d1f-8143-6935c370fb85" />
 
 ---
 
